@@ -20,6 +20,29 @@
 
 title: Perspectivado podcast
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+email:
+  id: 'perspectivadopodcast@gmail.om'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+facebook:
+  id: 'your-facebook-username'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+instagram:
+  id: 'your-twitter-name'
+  href: 'https://www.twitter.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram-square'
+
+youtube:
+  id: 'Perspectivado Podcast'
+  href: 'https://www.youtube.com/'
+  title: 'Youtube'
+  fa-icon: 'fa-youtube-play-square'
 
 # Build settings
 theme: minima
