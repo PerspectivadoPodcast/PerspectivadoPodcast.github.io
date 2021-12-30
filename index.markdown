@@ -4,4 +4,11 @@
 
 layout: home
 ---
-Dois doutorados em tudologia partilham um café e dissertam sobre os mais variados temas da atualidade e da não atualidade, e claro, partilhando as suas pouco elaboradas opiniões sobre os assuntos tratados. Com Eduardo Ganito e João Cruz
+
+![Alt Text](/assets/MicrosoftTeams-image(1).png)
+
+
+
+
+
+Dois estudantes partilham um café e dissertam sobre os mais variados temas da atualidade e da não atualidade, com os mais variados convidados. Com Eduardo Ganito e João Cruz.
