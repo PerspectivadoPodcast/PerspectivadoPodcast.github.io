@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 gem 'github-pages'
+ruby "2.5.1"
 
 gem "minima", "~> 2.5"
 
