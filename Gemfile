@@ -4,7 +4,7 @@ ruby "2.7.2"
 
 gem "minima", "~> 2.5"
 
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.9"
 
 
 
