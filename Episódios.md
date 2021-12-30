@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Episodes"
+title: "Episódios"
 permalink: https://perspectivadopodcast.github.io/Episodes
 ---
