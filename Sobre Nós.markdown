@@ -2,6 +2,7 @@
 layout: page
 title: "Sobre Nós"
 permalink: /sobrenos/
+order: 3
 ---
 
 Dois estudantes partilham um café e dissertam sobre os mais variados temas da atualidade e da não atualidade, com os mais variados convidados. Com Eduardo Ganito e João Cruz.
