@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Episódios"
-permalink: https://perspectivadopodcast.github.io/Episodes
+permalink: /Episodes
 order: 1
 ---
