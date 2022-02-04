@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Sugestões da Semana"
-permalink: /Sugestaodasemana
+permalink: /sugestaodasemana/
 order: 2
 ---
