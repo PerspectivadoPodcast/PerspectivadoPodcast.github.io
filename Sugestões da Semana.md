@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Sugestões da Semana"
-permalink: https://perspectivadopodcast.github.io/Sugestaodasemana
+permalink: /Sugestaodasemana
 order: 2
 ---
