@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Episódios"
-permalink: /Episodes/
+permalink: /episodes/
 order: 1
 ---
