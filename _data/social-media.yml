@@ -1,0 +1,17 @@
+facebook:
+  id: 'Perspectivado Podcast'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+instagram:
+  id: 'perpectivado.podcast'
+  href: 'https://www.instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram-square'
+
+youtube:
+  id: 'Perspectivado Podcast'
+  href: 'https://www.youtube.com/'
+  title: 'Youtube'
+  fa-icon: 'fa-youtube-play-square'
