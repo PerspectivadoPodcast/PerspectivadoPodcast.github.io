@@ -12,3 +12,7 @@ layout: home
 
 
 Dois estudantes partilham um café e dissertam sobre os mais variados temas da atualidade e da não atualidade, com os mais variados convidados. Com Eduardo Ganito e João Cruz.
+
+...
+{% include social-media-links.html %}
+...
