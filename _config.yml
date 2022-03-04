@@ -21,7 +21,7 @@
 title: Perspectivado podcast
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-{% include social-media-links.html %}
+
 
 # Build settings
 theme: minima
