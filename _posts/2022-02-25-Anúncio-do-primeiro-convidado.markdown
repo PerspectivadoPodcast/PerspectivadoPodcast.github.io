@@ -1,6 +1,5 @@
 ---
 layot: post
-comments:true
 title: "Anúncio do primeiro convidado"
 date: 2022-02-25
 category: Episódios
