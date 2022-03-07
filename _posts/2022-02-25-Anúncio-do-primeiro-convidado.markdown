@@ -1,6 +1,7 @@
 ---
 layot: post
 title: "Anúncio do primeiro convidado"
+permalink: /anunciodoprimeiroconvidado/
 date: 2022-02-25
 category: Episódios
 ---
