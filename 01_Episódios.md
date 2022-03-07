@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: category
 title: "Episódios"
-permalink: /episodes/
+permalink: /episodios/
 order: 1
 ---
