@@ -2,6 +2,7 @@
 layot: post
 title: "Anúncio do primeiro convidado"
 permalink: /anunciodoprimeiroconvidado/
+comments: true
 date: 2022-02-25
 category: Episódios
 ---
