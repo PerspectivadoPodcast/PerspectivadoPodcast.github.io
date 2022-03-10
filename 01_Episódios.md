@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "Episódios"
+title: "episódios"
 permalink: /episodios/
 order: 1
 ---
