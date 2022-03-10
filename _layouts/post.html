@@ -9,16 +9,11 @@ layout: default
     <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/blog/">Blog</a>
-    </nav>
     <h1>{{ page.title }}</h1>
     <section>
       {{ content }}
     </section>
     <footer>
-      &copy; to me
       {% include social-media-links.html %}
     </footer>
   </body>
